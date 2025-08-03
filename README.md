@@ -1,5 +1,8 @@
 # LANCEdroid
--LANCE-> app creator for Android
+
+ -LANCE->
+app creator
+for Android
 
 -> Define the relevant information and how it is interconnected.
 
