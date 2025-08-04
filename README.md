@@ -16,6 +16,6 @@
 
 **->** Export spreadsheets for graphical presentations.
 
-+*->** Add details with simple programming.
+**->** Add details with simple programming.
 
 **->** Incremental development by successive versions!
